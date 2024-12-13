@@ -35,7 +35,7 @@ layers:
   - G
   - $$mdi:arrow-left-bold$$
   - H
-  - {t: J, h: '$$mdi:apple-keyboard-control$$'}
+  - J
   - K
   - L
   - {t: ;, s: ':'}
